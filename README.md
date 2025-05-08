@@ -4,14 +4,11 @@
 ### 👋 Olá! Eu sou o Rafael Nakaya
 
 - 🎓 Estudante de Engenharia de Software na FIAP  
-- 🎮 Apaixonado por jogos, música e programação  
+<p align="left"> <img src="https://media2.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="200" /> </p>
+- 🎮 Apaixonado por jogos, música e programação
+<p align="left"> <img src="https://media0.giphy.com/media/PkCDv7CIK8d2M/giphy.gif" width="200" /> </p>
 - 🌱 Atualmente aprendendo desenvolvimento web, desenho e piano  
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="200" />
-  <img src="https://media0.giphy.com/media/PkCDv7CIK8d2M/giphy.gif" width="200" />
-  <img src="https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200" />
-</p>
+<p align="left"><img src="https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200" /></p>
 
 ---
 
