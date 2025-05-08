@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o Rafael Nakaya
 
-<!--
-**rflnky/rflnky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Engenharia de Software
+- 🎨 Apaixonado por Jogos, música e programação
+- 🌱 Atualmente aprendendo desenvolvimento web, desenho e piano
 
-Here are some ideas to get you started:
+#### 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Onde me encontrar
+- [LinkedIn]((https://www.linkedin.com/in/rafael-nakaya-548564355/))
+
+---
+✨ Obrigado por visitar meu perfil!
