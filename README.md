@@ -28,8 +28,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rflnky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/rafaelnakaya/rafaelnakaya/blob/output/github-contribution-grid-snake.svg)
-
 ---
 ![snake gif](https://github.com/rflnky/rflnky/blob/output/github-contribution-grid-snake.svg)
 
